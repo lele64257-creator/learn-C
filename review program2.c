@@ -1,9 +1,12 @@
-#include<stdio.h>//编写一个程序，打印你的名字
+#include <stdio.h>
 int main(void)
 {
 
-    printf("I'm Rooney.\n");
-    printf("This is my first C program without using any cues.\n");
+    int age = 19;
+    int day = age * 365;
+
+    printf("I'm %d years old. I have lived for %d days.\n", age , day);
 
     return 0;
+    
 }

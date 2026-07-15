@@ -1,12 +1,31 @@
-#include <stdio.h>
+//输出一个程序，该程序除了main()以外，还要调用两个自定义函数
+#include<stdio.h>
+void br(void);
+void ic(void);
+
 int main(void)
+
 {
-
-    int age = 19;
-    int day = age * 365;
-
-    printf("I'm %d years old. I have lived for %d days.\n", age , day);
-
-    return 0;
+    br();
+    printf(" , ");
+    ic();
+    printf("\n");
+    ic();
+    printf(",");
+    printf("\n");
+    br();
     
+    return 0;
+}
+
+void br(void)
+
+{
+    printf("Brazill , Russia");
+}
+
+void ic(void)
+
+{
+    printf("India , China");
 }
