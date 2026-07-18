@@ -18,7 +18,7 @@
 - 🌱 目前正在学习：`C 语言`
 - 🔭 当前目标：打好编程基础，完成自己的第一个开源项目
 - 💡 感兴趣的方向：C 语言与计算机底层原理
-- 🧩 GitHub：[@lele64257](https://github.com/lele64257)
+- 🧩 GitHub：[@lele64257-creater](https://github.com/lele64257)
 - ⚡ 一句话介绍：保持好奇，持续创造
 
 ## 🛠️ 技术与工具
