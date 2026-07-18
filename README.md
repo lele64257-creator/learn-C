@@ -33,17 +33,6 @@
 
 </div>
 
-## 📊 GitHub 数据
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lele64257&show_icons=true&theme=github_dark&hide_border=true&locale=cn" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lele64257&layout=compact&theme=github_dark&hide_border=true&locale=cn" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lele64257&theme=github-dark-blue&hide_border=true&locale=zh_Hans" alt="GitHub streak" />
-
-</div>
-
 ## 🚀 接下来要做
 
 - [ ] 发布第一个 GitHub 项目
