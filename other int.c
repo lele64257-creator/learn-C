@@ -14,5 +14,11 @@ int main (void)
     printf("%d\n",num01);
     printf("%d\n",num2);
 
+    unsigned a = 123;
+    //unsigned修饰一个非负的整数 范围0~65436
+    //signed 起到强调的作用
+
+    printf("%d\n",a);
+
     return 0;
 }
