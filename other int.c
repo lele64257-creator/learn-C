@@ -18,7 +18,7 @@ int main (void)
     //unsigned修饰一个非负的整数 范围0~65436
     //signed 起到强调的作用
 
-    printf("%d\n",a);
+    printf("%u\n",a);//%u 表示无符号数字
 
     return 0;
 }
