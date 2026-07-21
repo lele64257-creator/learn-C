@@ -20,7 +20,7 @@ int main(void)
 
     printf("int size = %d\n",sizeof(int));
 
-    printf("un = %u and not %d\n",un ,un);
+    printf("un = %u and not %d\n",un ,un);//%u表示unsigned
 
     printf("end = %hd and %d\n",end ,end);//%h表示short 
 
