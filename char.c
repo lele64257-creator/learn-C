@@ -11,6 +11,6 @@ int main(void)
     printf("ch = %c\n",ch);
 
     printf("ch2 = %d\n",ch2);
-    
+
     return 0;
 }
