@@ -8,7 +8,7 @@ int main(void)
     printf("Let's chrck it out.\n");
     printf("Please enter your weight in pounds:");
 
-    scanf("%f", &weight);//&地址符 取地址 阻塞等待输入 &weight告诉scanf把输入的值赋值给weight
+    scanf_s("%f", &weight);//&地址符 取地址 阻塞等待输入 &weight告诉scanf把输入的值赋值给weight
     
     value = 1700.0 *weight * 14.533;
 
