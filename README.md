@@ -1,9 +1,9 @@
 # This is a C learning reporsitory.
 ## Book:C primer plus 6th
 ## And also start learning to write README
-- insist 1 month
--  try to attend a program 
-### program
+- Insist 1 month
+- Try to attend a program 
+### Here is my program list.
 1. [firstC.c](https://github.com/lele64257-creator/learn-C/blob/main/first%20C.c)
 1. [fathm_ft.c](https://github.com/lele64257-creator/learn-C/blob/main/fathm_ft.c)
 1. [two_fun.c](https://github.com/lele64257-creator/learn-C/blob/main/two_fun.c)
