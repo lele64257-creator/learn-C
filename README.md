@@ -5,7 +5,7 @@
 -  try to attend a program 
 ### program
 1. [firstC.c](https://github.com/lele64257-creator/learn-C/blob/main/first%20C.c)
-1. [fathm_ft.c]
+1. [fathm_ft.c](https://github.com/lele64257-creator/learn-C/blob/main/fathm_ft.c)
 1. [two_fun.c]
 1. [review_program1.c]
 1. [review_program2.c]
