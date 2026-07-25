@@ -25,3 +25,5 @@
 1. [badcount.c](https://github.com/lele64257-creator/learn-C/blob/main/badcount.c)
 1. [escape.c](https://github.com/lele64257-creator/learn-C/blob/main/escape.c)
 1. [talkback.c](https://github.com/lele64257-creator/learn-C/blob/main/talkback.c)
+1. [praisel.c](https://github.com/lele64257-creator/learn-C/blob/main/praisel.c)
+1. [praise2.c](https://github.com/lele64257-creator/learn-C/blob/main/praise2.c)
