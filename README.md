@@ -1,5 +1,5 @@
 # This is a C learning reporsitory.
-## Book:[C primer plus 6th](https://github.com/lele64257-creator/learn-C/blob/main/C Primer Plus (Stephen Prata) (z-library.sk, 1lib.sk, z-lib.sk).epub)
+## Book:[C primer plus 6th](https://github.com/lele64257-creator/learn-C/blob/ea6fe861ee357162701f413c3b7ac73b37aa8b1a/C%20Primer%20Plus%20(Stephen%20Prata)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).epub)
 ## And also start learning to write README
 - Insist 1 month
 - Try to attend a program 
