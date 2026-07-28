@@ -28,3 +28,4 @@
 1. [praisel.c](https://github.com/lele64257-creator/learn-C/blob/main/praisel.c)
 1. [praise2.c](https://github.com/lele64257-creator/learn-C/blob/main/praise2.c)
 1. [pizza.c](https://github.com/lele64257-creator/learn-C/blob/main/pizza.c)
+1. [ageswitching.c](https://github.com/lele64257-creator/learn-C/blob/main/ageswitching.c)
