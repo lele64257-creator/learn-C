@@ -4,7 +4,7 @@
 - Insist 1 month
 - Try to attend a program 
 ### Here is my program list.
-1. [firstC.c](https://github.com/lele64257-creator/learn-C/blob/main/first%20C.c)
+1. [firstC.c](https://github.com/lele64257-creator/learn-C/blob/main/firstC.c)
 1. [fathm_ft.c](https://github.com/lele64257-creator/learn-C/blob/main/fathm_ft.c)
 1. [two_fun.c](https://github.com/lele64257-creator/learn-C/blob/main/two_fun.c)
 1. [review_program1.c](https://github.com/lele64257-creator/learn-C/blob/main/review_program1.c)
@@ -30,3 +30,4 @@
 1. [pizza.c](https://github.com/lele64257-creator/learn-C/blob/main/pizza.c)
 1. [count_age.c](https://github.com/lele64257-creator/learn-C/blob/main/count_age.c)
 1. [defines.c](https://github.com/lele64257-creator/learn-C/blob/main/defines.c)
+1. [printout.c](https://github.com/lele64257-creator/learn-C/blob/main/printout.c)
