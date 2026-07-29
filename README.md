@@ -34,3 +34,4 @@
 | [`count_age.c`](https://github.com/lele64257-creator/learn-C/blob/main/count_age.c) | Age count | Input and conditional practice |
 | [`defines.c`](https://github.com/lele64257-creator/learn-C/blob/main/defines.c) | Macro example | `#define` usage |
 | [`printout.c`](https://github.com/lele64257-creator/learn-C/blob/main/printout.c) | Output example | Print output practice |
+| [`width.c`](https://github.com/lele64257-creator/learn-C/blob/main/width.c) | | |
