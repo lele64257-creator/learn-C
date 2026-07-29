@@ -28,4 +28,5 @@
 1. [praisel.c](https://github.com/lele64257-creator/learn-C/blob/main/praisel.c)
 1. [praise2.c](https://github.com/lele64257-creator/learn-C/blob/main/praise2.c)
 1. [pizza.c](https://github.com/lele64257-creator/learn-C/blob/main/pizza.c)
-1. [ageswitching.c](https://github.com/lele64257-creator/learn-C/blob/main/ageswitching.c)
+1. [count_age.c](https://github.com/lele64257-creator/learn-C/blob/main/count_age.c)
+1. [defines.c](https://github.com/lele64257-creator/learn-C/blob/main/defines.c)
