@@ -8,18 +8,6 @@ This repository contains C programming examples and exercises for learning found
 - Build confidence compiling and running C code
 - Improve README and documentation skills
 
-## How to build and run
-### Using MinGW GCC
-1. Open a terminal in this repository.
-2. Compile a file:
-   ```bash
-   gcc -g <source-file>.c -o <output-name>.exe
-   ```
-3. Run the program:
-   ```bash
-   ./<output-name>.exe
-   ```
-
 ### Using Visual Studio Code
 1. Open this folder in VS Code.
 2. Use the C/C++ build task or run the active file with the configured GCC toolchain.
